@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 
-git clone https://github.com/shsh9888/kafka-on-kubernetes
-git clone https://github.com/shsh9888/cassandra-on-kubernetes.git
+git clone https://github.com/SowjanyaAchar/kafka-on-kubernetes
+git clone https://github.com/SowjanyaAchar/cassandra-on-kubernetes.git
 git clone https://github.com/SowjanyaAchar/spark-on-kubernetes
 
 mkdir -p build
