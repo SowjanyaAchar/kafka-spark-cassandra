@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 
-git clone https://github.com/SowjanyaAchar/kafka-on-kubernetes
+git clone https://github.com/SowjanyaAchar/kafka-on-kubernetes.git
 git clone https://github.com/SowjanyaAchar/cassandra-on-kubernetes.git
-git clone https://github.com/SowjanyaAchar/spark-on-kubernetes
+git clone https://github.com/SowjanyaAchar/spark-on-kubernetes.git
 
 mkdir -p build
 cp kafka-on-kubernetes/*.yaml ./build/
